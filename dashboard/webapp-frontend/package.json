@@ -23,7 +23,7 @@
     "@angular/platform-browser-dynamic": "^8.2.14",
     "@angular/router": "^8.2.14",
     "@fortawesome/fontawesome-free": "^5.12.1",
-    "@kubernetes/client-node": "^0.10.3",
+    "@kubernetes/client-node": "^0.18.1",
     "@material/radio": "^2.3.0",
     "@types/chart.js": "^2.9.12",
     "angular-bootstrap-md": "^7.5.4",
